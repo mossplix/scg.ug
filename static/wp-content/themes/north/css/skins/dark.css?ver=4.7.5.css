@@ -499,20 +499,20 @@ DARK LAYOUT STYLES
 
 	body.dark-layout .service-boxes .owl-controls .owl-buttons div{
 		background-color:#232323;
-		background-image:url(/_static/wp-content/img/left-litle.png);
+		background-image:url(/static/wp-content/img/left-litle.png);
 	}
 
 	body.dark-layout .service-boxes .owl-controls .owl-buttons div:nth-of-type(2){
-		background-image:url(/_static/wp-content/img/right-litle.png);
+		background-image:url(/static/wp-content/img/right-litle.png);
 	}
 
 	body.dark-layout .service-boxes .owl-controls .owl-buttons div:hover{
 		background-color:white;
-		background-image:url(/_static/wp-content/img/left-litle-black.png);
+		background-image:url(/static/wp-content/img/left-litle-black.png);
 	}
 
 	body.dark-layout .service-boxes .owl-controls .owl-buttons div:nth-of-type(2):hover{
-		background-image:url(/_static/wp-content/img/right-litle-black.png);
+		background-image:url(/static/wp-content/img/right-litle-black.png);
 	}
 
 /* Project */
