@@ -173,16 +173,16 @@ section.page_header .page_header_inner .p_head_right a.p-head-button {
 	.nav-cart-products,
 	.pulsed,
 	.woocommerce div.product .woocommerce-tabs ul.tabs li.active  {
-		border-color:#d71818;
+		border-color:	#FF7F50;
 	}
 
 	.tabs .nav-tabs li.active a,
 	.nav-menu ul.dropdown-menu{
-		border-top-color:#d71818;
+		border-top-color:	#FF7F50;
 	}
 	
 	.vntd-tour .nav-tabs li.active a {
-		border-left-color:#d71818;
+		border-left-color:	#FF7F50;
 	}
 	
 /* Font Sizes */
