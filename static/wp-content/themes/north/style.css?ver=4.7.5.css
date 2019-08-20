@@ -1035,7 +1035,7 @@ ul.nav {
 }
 
 .nav-inner .logo a img {
-    max-height: 50px;
+    height: 75px;
 }
 
 /* Navigation */
